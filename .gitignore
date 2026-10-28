@@ -1,0 +1,13 @@
+# Secrets et clés
+.env
+.env.*
+*.p8
+*.pem
+*.pub
+*.avant-bascule
+
+# Environnement et générés
+logs/
+venv/
+__pycache__/
+*.pyc
